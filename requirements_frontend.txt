@@ -1,0 +1,14 @@
+--save-dev @babel/core@7.4.5 @babel/preset-env@7.4.5 @babel/preset-react@7.0.0 babel-loader
+--save-dev webpack webpack-cli babel-loader webpack-dev-server
+--save react react-dom
+--save react-router-dom
+--save axios
+--save-dev babel-polyfill
+--save redux react-redux
+--save react-router-redux@next history
+--save redux-persist@5.0.0-beta.7
+--save redux-persist-transform-filter
+--save redux-api-middleware@2.0.0-beta.3
+--save jwt-decode
+--save reactstrap react-transition-group@1.1.2
+--save bootstrap@4.0.0-beta
